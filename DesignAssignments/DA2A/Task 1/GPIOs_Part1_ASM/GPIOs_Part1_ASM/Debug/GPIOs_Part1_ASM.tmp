@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Benjamin Johnson\Documents\Atmel Studio\7.0\GPIOs_Part1_ASM\GPIOs_Part1_ASM\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Benjamin Johnson\Documents\Atmel Studio\7.0\GPIOs_Part1_ASM\GPIOs_Part1_ASM\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Benjamin Johnson\Documents\Atmel Studio\7.0\GPIOs_Part1_ASM\GPIOs_Part1_ASM\Debug\GPIOs_Part1_ASM.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>GPIOs_Part1_ASM.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>GPIOs_Part1_ASM.map</FILE>
+  <FILE>GPIOs_Part1_ASM.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <BEGIN><FILE>C:\Users\Benjamin Johnson\Documents\Atmel Studio\7.0\GPIOs_Part1_ASM\GPIOs_Part1_ASM\main.asm</FILE><LINE>16</LINE></BEGIN>
+  <L1><FILE>C:\Users\Benjamin Johnson\Documents\Atmel Studio\7.0\GPIOs_Part1_ASM\GPIOs_Part1_ASM\main.asm</FILE><LINE>24</LINE></L1>
+  <L2><FILE>C:\Users\Benjamin Johnson\Documents\Atmel Studio\7.0\GPIOs_Part1_ASM\GPIOs_Part1_ASM\main.asm</FILE><LINE>39</LINE></L2>
+ </LABELS>
+</ASSEMBLER_INFO>
